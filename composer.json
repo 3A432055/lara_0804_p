@@ -6,5 +6,7 @@
             "email": "david860120@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^1.21"
+    }
 }
